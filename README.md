@@ -1,6 +1,6 @@
 # Portfolio V5  
 Hello everyone!  
-Let me introduce myself, I’m Eki Zulfar Rachman. On this occasion, I’d like to share the portfolio website project that I’ve developed.  
+Let me introduce myself, I’m Akash Vishwakarma. On this occasion, I’d like to share the portfolio website project that I’ve developed.  
 
 **Tech Stack used:**  
 - ReactJS  
@@ -13,7 +13,7 @@ Let me introduce myself, I’m Eki Zulfar Rachman. On this occasion, I’d like 
 - SweetAlert2  
 
 **Website Link:**  
-[https://www.eki.my.id/](https://www.eki.my.id/)  
+[https://akash-portfolio-b1529.web.app/](https://akash-portfolio-b1529.web.app/)
 
 We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏  
 
@@ -35,7 +35,7 @@ Ensure that you have already installed:
 1. **Download this project:**  
 
    ```bash  
-   git clone https://github.com/EkiZR/Portofolio_V5.git  
+   git clone https://github.com/Akash-Vishwakarma-dev/Akash-Portfolio.git 
    ```  
 
 2. **Install all dependencies:**  
