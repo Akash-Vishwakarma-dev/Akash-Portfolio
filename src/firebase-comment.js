@@ -4,13 +4,14 @@ import { getStorage } from "firebase/storage";
 import { collection, addDoc } from "@firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBov4NDncjTTwzBTprSUJGtqmljwpqgWbI",
-    authDomain: "akash-portfolio-b1529.firebaseapp.com",
-    projectId: "akash-portfolio-b1529",
-    storageBucket: "akash-portfolio-b1529.firebasestorage.app",
-    messagingSenderId: "949889935402",
-    appId: "1:949889935402:web:c622523d4c7a6f2970fb53",
-    measurementId: "G-KJK0PX128C"
+   apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    databaseURL: "YOUR_DATABASE_URL",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    appId: "YOUR_APP_ID",
+    measurementId: "YOUR_MEASUREMENT_ID"
   };
 
 // Initialize with a unique name
